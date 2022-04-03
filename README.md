@@ -1,7 +1,5 @@
 # AI-Engineering-Course
 
-# AI Engineering Modules
-
 ## 1. Basic Python Programming
 
 - Python Programming (conditional, data types, looping, function)
@@ -20,9 +18,9 @@
 
 - REST API
 - Docker
-- SQL and NoSQL
+- SQL
 - REST API + SQL
-- CICD
+- TDD + CICD
 
 ## 4. AI Engineering
 
@@ -30,9 +28,7 @@
 - Scheduler, Stream and Batch Processing
 - Dashboard
 
-
-
-## Materi Tambahan
+## 5. Materi Tambahan
 
 - Data Science
 - Data Engineer
@@ -92,6 +88,7 @@
     ```
 
 ## Step 4: Instalasi Environment
+- Jalankan `jupyterlab` dan masuk kedalam folder yang sudah didownload
 - Change directory `cd` ke folder kerja ini
     ```
     cd AI-Engineering-Course/

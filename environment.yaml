@@ -1,8 +1,8 @@
-name: ai_engineering_course_sample
+name: ai_engineering_course
 
-channels:
-- conda-forge
-- anaconda 
+# channels:
+# - conda-forge
+# - anaconda 
 
 dependencies:
 # Essential

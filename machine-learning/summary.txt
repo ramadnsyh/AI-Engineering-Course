@@ -1,0 +1,20 @@
+# Machine Learning Workflow
+
+- Read Dataset
+- Quick EDA: missing value, imbalance apa gak, regresi/klasifikasi
+- Data preprocessing: mengubah format tanggal, membersihkan typo
+- Dataset splitting
+- Datapipeline: preprocessing data dan modeling
+- Hyper Parameter Tuning
+- Evaluasi model: tergantung regresi atu klasifikasi, sanity check
+- Save model
+
+# Improve Model
+1. Data
+    - scaling
+    - feature engineering
+    - transform
+2. Model
+    - algorithma
+    - hyper parameter tuning
+    
